@@ -1,0 +1,13 @@
+size(200,110);
+strokeWeight(5);
+noFill();
+stroke(0,0,255);
+ellipse(50,50,50,50);
+stroke(5,5,5);
+ellipse(106,50,50,50);
+stroke(255,0,0);
+ellipse(162,50,50,50);
+stroke(236,245,12);
+ellipse(78,75,50,50);
+stroke(0,255,0);
+ellipse(136,75,50,50);
